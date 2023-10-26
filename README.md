@@ -1,0 +1,2 @@
+# musical-journey
+Rust training
